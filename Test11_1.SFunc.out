@@ -1,0 +1,9 @@
+
+Predictions were generated on 09-Jul-2018 at 16:57:40 using FAST (v8.16.00a-bjj, 27-Jul-2016), compiled as a DLL S-Function for Simulink as a 64-bit application using single precision
+ linked with  NWTC Subroutine Library (v2.09.00, 23-Jul-2016); ElastoDyn (v1.04.00a-bjj, 26-Jul-2016); InflowWind (v3.03.00, 26-Jul-2016); AeroDyn14 (v14.05.01a-bjj, 25-Jul-2016); ServoDyn (v1.06.00a-bjj, 26-Jul-2016)
+
+Description from the FAST input file: FAST Certification Test #11: WindPACT 1.5 MW Baseline with many DOFs undergoing a pitch failure.
+
+Time      	Wind1VelX 	Wind1VelY 	Wind1VelZ 	RotSpeed  	BldPitch1 	OoPDefl1  	OoPDefl3  	TipALxb1  	RootMxb1  	RootMyb1  	RootMzb1  	RotThrust 	LSShftFya 	LSShftFza 	LSSTipMya 	LSSTipMza 	RotTorq   	RotPwr    	TTDspFA   	TTDspSS   	TwHt1MLxt 	TwHt1MLyt 	TwHt1MLzt 	TwHt2FLxt 	TwHt2FLyt 	TwHt2FLzt 	TwHt1RPxi 	TwHt1TPxi 	TwHt1RDxt 	TwHt1TDxt 	HSShftV   	GenTq     	GenPwr    
+(s)       	(m/s)     	(m/s)     	(m/s)     	(rpm)     	(deg)     	(m)       	(m)       	(m/s^2)   	(kN·m)    	(kN·m)    	(kN·m)    	(kN)      	(kN)      	(kN)      	(kN·m)    	(kN·m)    	(kN·m)    	(kW)      	(m)       	(m)       	(kN·m)    	(kN·m)    	(kN·m)    	(kN)      	(kN)      	(kN)      	(deg)     	(m)       	(deg)     	(m)       	(rpm)     	(kN·m)    	(kW)      
+    0.0000	 1.130E+01	 0.000E+00	 0.000E+00	 2.000E+01	 0.000E+00	 0.000E+00	 0.000E+00	-2.002E+00	-4.617E-01	 1.692E+01	-2.739E-07	 2.900E+01	 4.474E-02	-2.301E+02	 1.108E+01	-8.457E+00	 2.034E-06	 4.261E-06	 0.000E+00	 0.000E+00	 2.030E-01	 1.899E+02	-8.562E+00	 1.904E+01	-2.024E-02	-9.876E+02	 0.000E+00	 0.000E+00	 0.000E+00	 0.000E+00	 2.000E+01	 0.000E+00	 0.000E+00
